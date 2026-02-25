@@ -1,0 +1,57 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# IDEs
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+
+# Build
+bin/
+build/
+target/
+out/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+*.swp
+*.swo
+
+# Libs
+lib/
+
+# Exclude user-specific files
+*.~
+
+# Maven
+.mvn/
+
+# Gradle
+.gradle/
+
+# Temporary files
+*.tmp
+*.bak
+
+# Test reports
+/test-output/
+
+# Generated files
+/generated/
+
+# Environment
+.env
+
+# Ignore compiled files
+src/**/*.class
